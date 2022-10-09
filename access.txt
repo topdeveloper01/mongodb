@@ -1,0 +1,15 @@
+username : topdev
+password : verygood
+
+mongodb compass acesss
+=======================
+mongodb+srv://topdev:verygood@cluster0.hqxwfjh.mongodb.net/test
+
+Node.js acesss
+=======================
+mongodb+srv://topdev:verygood@cluster0.hqxwfjh.mongodb.net/?retryWrites=true&w=majority
+
+mongo shell access
+=======================
+mongosh "mongodb+srv://cluster0.hqxwfjh.mongodb.net/myFirstDatabase" --apiVersion 1 --username topdev
+
